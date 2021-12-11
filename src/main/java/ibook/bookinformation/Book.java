@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author hoanghai
+ * @author tranthianh
  */
 public class Book {
 
@@ -44,7 +44,7 @@ public class Book {
         String langhuge = sc.nextLine();sc.nextLine();
         System.out.println("Enter price: ");
         double price=sc.nextDouble();
-        System.out.println("Enter publicdate");
+        System.out.println("Enter date");
         String date = sc.nextLine();
         System.out.println("Enter ISBN");
         String Isbn = sc.nextLine();

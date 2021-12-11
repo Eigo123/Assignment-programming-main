@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author hoanghai
+ * @author Tranthianh
  */
 public class Main {
 
